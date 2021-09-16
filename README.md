@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 currently working on Python projects
+- 🔭 currently working on Java projects
 - 🌱 currently learning programming skills
 - 🤔 looking for help with great developers
 
